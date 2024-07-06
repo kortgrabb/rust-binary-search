@@ -1,7 +1,7 @@
 //! # Binary Search Implementation in Rust
 //! 
 //! This project demonstrates a generic binary search algorithm implemented in Rust.
-//! It uses the use of generics, the `Ord` trait, allowing any ordered type to be used, and Rust's pattern matching.
+//! It makes use of generics, the `Ord` trait, allowing any ordered type to be used, and Rust's pattern matching.
 
 use std::cmp::Ordering;
 
